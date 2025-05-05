@@ -1,0 +1,5 @@
+Flask
+transformers
+faiss-cpu
+torch
+elasticsearch
